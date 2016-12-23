@@ -1,2 +1,2 @@
 file3 reabse-other
-from rebase
+hello file3
